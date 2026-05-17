@@ -1,5 +1,8 @@
 # Pipeline de dados com integração via API 🎓
 
+<img width="1202" height="852" alt="image" src="https://github.com/user-attachments/assets/9d45f49f-9fc5-44c2-a1a6-f6b5a76bd454" />
+
+
 Desenvolvimento de uma pipeline de dados simplificada. O projeto consiste em uma API que disponibiliza os dados após um processo de ETL (Extração, Transformação e Carga) realizado a partir de um arquivo CSV com nomes de alunos. 
 
 A solução permite que dados armazenados localmente sejam consumidos de forma estruturada por serviços em nuvem, como o Google Colab, simulando um cenário real de integração de dados.
